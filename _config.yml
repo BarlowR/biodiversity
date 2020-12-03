@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
-logo: "./logo.jpg"
-show_downloads: ["false"]
+logo: "./logo.JPG"
+show_downloads: "false"
 
