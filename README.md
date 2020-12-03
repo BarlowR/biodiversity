@@ -30,6 +30,8 @@ Climate Change, Human Impacts, and the Resilience of Coral Reefs
 
 Hughes, Terry P., et al. "Climate change, human impacts, and the resilience of coral reefs." science 301.5635 (2003): 929-933.
 
+
+The diversity, frequency, and scale of human impacts on coral reefs are increasing to the extent that reefs are threatened globally. Projected increases in carbon dioxide and temperature over the next 50 years exceed the conditions under which coral reefs have flourished over the past half-million years. However, reefs will change rather than disappear entirely, with some species already showing far greater tolerance to climate change and coral bleaching than others. International integration of management strategies that support reef resilience need to be vigorously implemented, and complemented by strong policy decisions to reduce the rate of global warming.
 https://science.sciencemag.org/content/301/5635/958
 https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.13051
 
