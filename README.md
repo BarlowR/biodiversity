@@ -13,8 +13,17 @@ Sala, O. E., Chapin, F. S., Armesto, J. J., Berlow, E., Bloomfield, J., Dirzo, R
 
 http://www.sciencemag.org/cgi/content/full/287/5459/1770
 
-
 As a function of atmospheric CO2, climate, vegetation, land use, and the sensitivity of different biomes to changes in the aforementioned data points, this article maps out possible different scenarios for global biodiversity in 2100. Three models are explored, wherein there is no interactions, antagonistic interactions, or synergistic interactions between the causes of biodiversity change. In all scenarios, biodiversity is drastically reduced across all biomes, and especially so in grasslands and Mediterranean ecosystems.
+
+
+
+Invasive predators and global biodiversity loss.
+
+Doherty, Tim S., et al. "Invasive predators and global biodiversity loss." *Proceedings of the National Academy of Sciences* 113.40 (2016): 11261-11265.
+
+This article examines the effect of invasive species on decline in global biodiversity. The article directly links invasive species as part of the cause of extinction for over 140 different species, and as a distinct threat for ~600 more species. Cats, rodents, dogs, and pigs are stated as the greatest threatening invasive species. The article also examines the types of species that are the most susceptible to damage by invasive populations. 
+
+
 
 
 #### Case Study: Coral Reef Decline
@@ -42,4 +51,14 @@ The climate mitigation gap: education and government recommendations miss the mo
 Wynes, Seth, and Kimberly A. Nicholas. "The climate mitigation gap: education and government recommendations miss the most effective individual actions." Environmental Research Letters 12.7 (2017): 074024.
 
 This article critically examined all of the ways in which individuals could lower their carbon footprint over their lifetime, and provides a clear view of which actions have the most impact. These actions are having one fewer child, living car-free, avoiding airplane travel, and eating a plant-based diet, with having one fewer child as the most effective action by an order of magniture. The article discusses how some less effective methods are more prevalent in our culture as "green." The article also discusses the other individual benefits of following these actions. 
+
+
+
+Reducing meat consumption in developed and transition countries to counter climate change and biodiversity loss: a review of influence factors
+
+Stoll-Kleemann, Susanne, and Uta Johanna Schmidt. "Reducing meat consumption in developed and transition countries to counter climate change and biodiversity loss: a review of influence factors." Regional Environmental Change 17.5 (2017): 1261-1277.
+
+
+
+This article directly ties individual action to countering biodiversity loss, with the focus being reducing meat consumption. The article describes the issue of biodiversity loss and its link to climate change, and identifies reduced meat eating as a way to reduce greenhouse emissions. Finally, the article identifies cognitive dissonance as one of the greatest influences on individual behavior and identifies it as a key challenge point in shifting culture away from meat consumption.
 
