@@ -30,10 +30,16 @@ Climate Change, Human Impacts, and the Resilience of Coral Reefs
 
 Hughes, Terry P., et al. "Climate change, human impacts, and the resilience of coral reefs." science 301.5635 (2003): 929-933.
 
+This article critically examines the trends found in recent (to 2003) publications on reef decline, and confirms that reefs will suffer greatly in the coming years. However, this article suggests that instead of disapear, reefs will adapt to the new environment, and their success of adaptation could be tied to the rate of change of the environment. The conclusion from the above article is echoed; intervention to support reefs is required, along anti-climate-change action
 
-The diversity, frequency, and scale of human impacts on coral reefs are increasing to the extent that reefs are threatened globally. Projected increases in carbon dioxide and temperature over the next 50 years exceed the conditions under which coral reefs have flourished over the past half-million years. However, reefs will change rather than disappear entirely, with some species already showing far greater tolerance to climate change and coral bleaching than others. International integration of management strategies that support reef resilience need to be vigorously implemented, and complemented by strong policy decisions to reduce the rate of global warming.
 https://science.sciencemag.org/content/301/5635/958
 https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.13051
 
-#### 
+#### Individual Action
+
+The climate mitigation gap: education and government recommendations miss the most effective individual actions
+
+Wynes, Seth, and Kimberly A. Nicholas. "The climate mitigation gap: education and government recommendations miss the most effective individual actions." Environmental Research Letters 12.7 (2017): 074024.
+
+This article critically examined all of the ways in which individuals could lower their carbon footprint over their lifetime, and provides a clear view of which actions have the most impact. These actions are having one fewer child, living car-free, avoiding airplane travel, and eating a plant-based diet, with having one fewer child as the most effective action by an order of magniture. The article discusses how some less effective methods are more prevalent in our culture as "green." The article also discusses the other individual benefits of following these actions. 
 
