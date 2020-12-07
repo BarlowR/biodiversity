@@ -10,9 +10,17 @@ Biodiversity is, at surface level, quite simply variety and variability of life.
 
 The current worldwide extinction rate among all species is estimated to be 100 times higher than the historical baseline (Ceballos, Gerardo, et al, 2015). In North America alone, researchers have shown a net loss of 3 billion birds, or 29% of population levels since just 1970 (Rosenberg, Kenneth V., et al, 2019). This is catastrophic. Biodiversity is at the core of our world; all species are part of natural feedback systems within their ecological environments which facilitates the continuing function of that ecosystem. When a major disruption happens, that feedback system may compound the effect. Take for example the sea otter population of our west coast. Sea otters are a predator of sea urchins, and when sea otters were hunted near to extinction for the fur trade in the 1800s, sea urchin populations boomed. The sea urchins then took over the undersea kelp forests, eating so much of them that they nearly disappeared, along with all of the species that depended on the kelp (Estes, James E., et al 1978). Fortunately sea otter populations have since been reintroduced and kelp forests have begun regrowing, but this is just one example of the effect of the near loss of a species. It’s difficult to even imagine the effect of the modern global extinction. 
 
-As one might imagine, humans are the cause of this sixth extinction. Through deforestation, large scale farming operations and urban expansion, we’re slowly destroying natural habitat throughout the world. We’ve also been prolific in introducing species into ecosystems where they would have never normally existed, causing havoc. Even just our mammalian housepets, dogs and cats, account for a large number of species extinctions XXXXXXXXX. 
+As one might imagine, humans are the cause of this sixth extinction. Through deforestation, large scale farming operations and urban expansion, we’re slowly destroying natural habitat throughout the world. We’ve also been prolific in introducing species into ecosystems where they would have never normally existed, causing havoc. Even just our mammalian housepets, dogs and cats, account for a large number of species extinctions XXXXXXXXX. Of course, climate change is another major factor, physically altering ecosystems globally. Alongside climate change is the issue of pollution, which chokes the air with smog, fills streams and rivers with toxic chemicals and farm runoff, and covers the earth and the ocean with trash.  Finally, there’s the issue of overharvesting, wherein we’ve simply killed off entire populations of species, be it cod, bluefin tuna or the aforementioned sea otters. 
 
-Of course, climate change is another major factor, physically altering ecosystems globally. Alongside climate change is the issue of pollution, which chokes the air with smog, fills streams and rivers with toxic chemicals and farm runoff, and covers the earth and the ocean with trash.  Finally, there’s the issue of overharvesting, wherein we’ve simply killed off entire populations of species, be it cod, bluefin tuna or the aforementioned sea otters. 
+Consequence of biodiversity loss in the human world
+
+
+
+Given this incredible problem, what can be done? It is easy to minimize ones perception of their own effect, especially at such a global scale, but individuals can have a large impact. The first step anyone can do is simply help to spread awareness of this impending crisis; it doesn't seem like this issue has achieved the level of global attention that it deserves. It's a clich�, but if a single person told two people about this problem, and those two people told two more people the next day, and so on, it would only take 33 days for the entire population of the world to hear about the problem. 
+
+There are other proactive steps that one can take. To combat deforestation, one could reduce their use of single-use products, and look for 100% post-consumer recycled content materials in products. Avoiding beef and soy products can help too (Nepstad, Daniel, et al). Pollution is another area of opportunity; help out at your local green up day, and reduce the use of pesticides and fertilizers in one's lawn care. Composting both reduces the waste in landfills and provides fantastic fertilizer. 
+
+The most effective way that an individual can slow the loss of biodiversity is through measures to reduce climate change.  Many of the 
 
 
 
@@ -20,37 +28,13 @@ Sea Otter Predation and Community Organization in the Western Aleutian Islands, 
 
 Estes, James E., et al. “Sea Otter Predation and Community Organization in the Western Aleutian Islands, Alaska.” *Ecology*, vol. 59, no. 4, 1978, pp. 822–833. *JSTOR*, www.jstor.org/stable/1938786. Accessed 4 Dec. 2020.
 
-
-
-
-
-Decline of the North American avifauna
-
 Rosenberg, Kenneth V., et al. "Decline of the North American avifauna." *Science* 366.6461 (2019): 120-124.
-
-
-
-
-
-Has the Earth’s sixth mass extinction already arrived?
 
 Barnosky, Anthony D., et al. "Has the Earth’s sixth mass extinction already arrived?." *Nature* 471.7336 (2011): 51-57.
 
-
-
-Accelerated modern human–induced species losses: Entering the sixth mass extinction.
-
 Ceballos, Gerardo, et al. "Accelerated modern human–induced species losses: Entering the sixth mass extinction." *Science advances* 1.5 (2015): e1400253.
 
-
-
-Biological annihilation via the ongoing sixth mass extinction signaled by vertebrate population losses and declines.
-
 Ceballos, Gerardo, Paul R. Ehrlich, and Rodolfo Dirzo. "Biological annihilation via the ongoing sixth mass extinction signaled by vertebrate population losses and declines." *Proceedings of the national academy of sciences* 114.30 (2017): E6089-E6096.
-
-
-
-Global patterns of terrestrial vertebrate diversity and conservation
 
 Jenkins, Clinton N., Stuart L. Pimm, and Lucas N. Joppa. "Global patterns of terrestrial vertebrate diversity and conservation." *Proceedings of the National Academy of Sciences* 110.28 (2013): E2602-E2610.
 
@@ -118,3 +102,8 @@ Stoll-Kleemann, Susanne, and Uta Johanna Schmidt. "Reducing meat consumption in 
 
 This article directly ties individual action to countering biodiversity loss, with the focus being reducing meat consumption. The article describes the issue of biodiversity loss and its link to climate change, and identifies reduced meat eating as a way to reduce greenhouse emissions. Finally, the article identifies cognitive dissonance as one of the greatest influences on individual behavior and identifies it as a key challenge point in shifting culture away from meat consumption.
 
+
+
+
+
+Nepstad, Daniel, et al. "Slowing Amazon deforestation through public policy and interventions in beef and soy supply chains." *science* 344.6188 (2014): 1118-1123.
