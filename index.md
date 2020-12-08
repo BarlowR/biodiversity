@@ -1,3 +1,9 @@
+---
+title: Global Biodiversity Decline
+layout: template
+filename: index
+--- 
+
 #### Global Biodiversity Decline
 
 

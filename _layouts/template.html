@@ -22,8 +22,10 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         <h3>
-          <a href = "./pages/bib.md">Bibliography</a>
-          <a href = "./pages/resources.md">Related Resources</a>
+          {% for page in site.pages %}
+            <p><a href={{ page.filename }}>{{ page.title }}</a></p>
+          {% endfor %}
+
         </h3>
 
 
