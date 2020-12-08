@@ -24,7 +24,7 @@ The most effective way that an individual can slow the loss of biodiversity is t
 
 
 
-<img src = "./images/Carbon.png" width = 80%> 
+<img src = "https://github.com/BarlowR/biodiversity/tree/main/images/Carbon.png" width = 80%> 
 
 *Figure 1: Carbon savings for individual actions (Wynes et al. 2017)*
 
