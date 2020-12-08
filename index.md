@@ -13,8 +13,7 @@ We are living in a time of ecological crisis. Scientists have identified that we
 Biodiversity is at surface level simply variety and variability of life. It is generally viewed at three levels: genetic, species, and ecosystem level. Genetic biodiversity is the amount of gene variation within a given species. A great example of this is dogs, who are members of the Canis lupus species, but whose genetic diversity can be seen in the phenotype diversity of the ~450 different recognized breeds. In fact, dogs are the most variable mammals on earth. Next, species biodiversity is characterized by the number of different species within an ecological community. This could be seen as synonymous with species richness, although species biodiversity measures can include species evenness, which is the relative abundances of species in a community. Figure 1 shows plots of bird, mammal and amphibian richness throughout the world. Finally, ecosystem biodiversity is the variation of ecosystems within a given geographical location.
 
 
-
-<img src = "https://github.com/BarlowR/biodiversity/tree/main/images/species_richness.jpg" width = 80%>
+![img](/images/species_richness.jpg)
 *Figure 1, Jenkins et al. 2013*
 
 
