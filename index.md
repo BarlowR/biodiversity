@@ -19,11 +19,3 @@ The current worldwide extinction rate among all species is estimated to be 100 t
 As one might imagine, humans are the cause of this sixth extinction. Through deforestation, large scale farming operations and urban expansion, we’re slowly destroying natural habitat throughout the world. We’ve also been prolific in introducing species into ecosystems where they would have never normally existed, causing havoc. Even just our mammalian housepets, dogs and cats, account for a large number of species extinctions XXXXXXXXX. Of course, climate change is another major factor, physically altering ecosystems globally. Alongside climate change is the issue of pollution, which chokes the air with smog, fills streams and rivers with toxic chemicals and farm runoff, and covers the earth and the ocean with trash.  Finally, there’s the issue of overharvesting, wherein we’ve simply killed off entire populations of species, be it cod, bluefin tuna or the aforementioned sea otters. 
 
 Consequence of biodiversity loss in the human world
-
-
-
-Given this incredible problem, what can be done? It is easy to minimize ones perception of their own effect, especially at such a global scale, but individuals can have a large impact. The first step anyone can do is simply help to spread awareness of this impending crisis; it doesn't seem like this issue has achieved the level of global attention that it deserves. It's a clich�, but if a single person told two people about this problem, and those two people told two more people the next day, and so on, it would only take 33 days for the entire population of the world to hear about the problem. 
-
-There are other proactive steps that one can take. To combat deforestation, one could reduce their use of single-use products, and look for 100% post-consumer recycled content materials in products. Avoiding beef and soy products can help too (Nepstad, Daniel, et al). Pollution is another area of opportunity; help out at your local green up day, and reduce the use of pesticides and fertilizers in one's lawn care. Composting both reduces the waste in landfills and provides fantastic fertilizer. 
-
-The most effective way that an individual can slow the loss of biodiversity is through measures to reduce climate change.  Many of the 
