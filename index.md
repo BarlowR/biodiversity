@@ -14,7 +14,7 @@ Biodiversity is at surface level simply variety and variability of life. It is g
 
 
 
-<img src = "./images/species_richness.jpg" width = 80%>
+<img src = "https://github.com/BarlowR/biodiversity/tree/main/images/species_richness.jpg" width = 80%>
 *Figure 1, Jenkins et al. 2013*
 
 
